@@ -2534,6 +2534,9 @@ h6 {
   .single-brand-item:hover {
     border: 1px solid transparent;
     box-shadow: 0px 8px 30px rgba(6, 202, 160, 0.986); }
+  .interests:hover {
+    border: 1px solid transparent;
+    box-shadow: 0px 8px 30px rgba(233, 211, 14, 0.5); }
 
 .client-info {
   padding: 25px 30px;
